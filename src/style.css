@@ -1,0 +1,12 @@
+#preview {
+    padding: 0.375rem 0.75rem;
+}
+
+#editor {
+    max-height: 100vh;
+}
+
+label {
+    font-size: 24px;
+    font-weight: 700;
+}
